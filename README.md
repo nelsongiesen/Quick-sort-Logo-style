@@ -17,8 +17,8 @@ The word yes represents the answer yes.
 The word no represents the answer no.
 The word the-empty-list represents the empty list.
 
-Logo dialect has four magic words:
-Define is a function that allows us to create a program and name it.
-Lambda is a function that allows us to create inputs and name them.
-Let is a function that allows us to create local variables and name them.
-Letrec is a function that allows us to create helper programs and name them.
+Our programs use four magic words:
+Define creates a program and allows us to name it.
+Lambda creates inputs and allows us to name them.
+Let creates local variables and allows us to name them.
+Letrec creates helper programs and allows us to name them.
